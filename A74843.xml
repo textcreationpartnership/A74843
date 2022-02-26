@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquesse of Ormond's letter to His Majestie concerning the late fight betwixt the forces under his command, and the garrison of Dublin. : The copie whereof was taken out of His Majesties letter, and sent from S. Germain en Laye, bearing date the 25. of this instant, (new style) to an eminent person of this kingdome. : Together with the most considerable occurrences in relation to the appeasing of that kingdome, and embracing the princes interest.</title>
+            <author>Ireland. Lord Lieutenant (1643-1647 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74843</idno>
+            <idno type="STC">Thomason E571_21</idno>
+            <idno type="EEBO-CITATION">50805912</idno>
+            <idno type="OCLC">ocm 50805912</idno>
+            <idno type="VID">165355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165355)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquesse of Ormond's letter to His Majestie concerning the late fight betwixt the forces under his command, and the garrison of Dublin. : The copie whereof was taken out of His Majesties letter, and sent from S. Germain en Laye, bearing date the 25. of this instant, (new style) to an eminent person of this kingdome. : Together with the most considerable occurrences in relation to the appeasing of that kingdome, and embracing the princes interest.</title>
+                  <author>Ireland. Lord Lieutenant (1643-1647 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles, --  II, --  King of England, 1630-1685.</term>
+               <term>Ireland --  History --  1649-1660 --  Sources.</term>
+               <term>Ireland --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165355:1" rendition="simple:additions"/>
+            <p>The Marqueſſe of ORMOND'S LETTER TO HIS MAJESTIE, Concerning the late Fight betwixt the For<g ref="char:EOLhyphen"/>ces under his Command, and the Garriſon of <hi>Dublin.</hi>
+            </p>
+            <p>The Copie whereof was taken out of His Majeſties Letter, and ſent from S. <hi>Germain en Laye,</hi> bearing date the 25. of this inſtant, <hi>(new ſtyle)</hi> to an Eminent Perſon of this Kingdome.</p>
+            <p>Together with the moſt conſiderable Oc<g ref="char:EOLhyphen"/>currences in relation to the appeaſing of that King<g ref="char:EOLhyphen"/>dome, and embracing the Princes Intereſt.</p>
+            <p>Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165355:2"/>
+            <pb n="1" facs="tcp:165355:2"/>
+            <head>The Marqueſſe of <hi>ORMONDS</hi> Letter to His MAJESTY, &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>THe Rebels are poſſeſſed with ſuch an admirable dexte<g ref="char:EOLhyphen"/>rity of ſpreading abroad petty defeats, for Glorious Victories, and uſe ſuch an extraordinary vigilance to In<g ref="char:EOLhyphen"/>tercept, and Bury, all thoſe Letters which may preſent the Truth without diſguiſe: That though the laſt Action upon <hi>Auguſt</hi> the ſecond, be ſcarcely worth the Royall notice, yet their ſwelling Relations may convey it to your Majeſties knowledge in ſuch a multiplying Glaſſe, as to deliver a Camiſadoe for a Bat<g ref="char:EOLhyphen"/>tell, and the trifling ſucceſſe of it for a memorably compleat Victory.</p>
+            <p>I ſhall therefore deliver your Majeſty a moſt exact accompt of that dayes emergencies, in which I had rather exceed to the Re<g ref="char:EOLhyphen"/>bells advantage, then by an unſeaſonable flattering your Majeſty with a pretended Proſperity, divert your Princely thoughts and care, from ſtrengthning our hands with ſuch Forraign ſtrength as may be procured to your Majeſties Service: It being an undoub<g ref="char:EOLhyphen"/>ted Maxim, that the ſecuring this Kingdome, will (by Gods bleſſing) ſpeedily reduce the other two out of the Jawes of thoſe Barbarous Rebells, to your moſt Juſt, and naturall Obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>On Wedneſday at night, <hi>Auguſt</hi> the firſt, it was Reſolved by a Councell of Warre, (the Reſults whereof, Sir <hi>Robert Welch</hi> is to preſent your Majeſty in Duplicate) That <hi>Baggohrath</hi> ſhould im<g ref="char:EOLhyphen"/>mediately be Poſſeſſed, and Fortified. The accompliſhment whereof, could not but extreamly ſtrengthen the Rebells in their Proviſion, who, though by the Addition of Force out of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> they were growne ſomething Numerous; yet in our ap<g ref="char:EOLhyphen"/>prehenſions, were become capable of haſtning the Famine to its full groweth amongſt them. Nor did their number ſo much adde to our feares, as it waſted from their owne Proviſion: To the acceleration of which waſt, the poſſeſſion of this place would have been conſiderable; ſince (by thus Pin-folding them up) their Horſe, and Cattell, muſt have been totally deprived of all ima<g ref="char:EOLhyphen"/>ginable ſubſiſtance.</p>
+            <pb n="2" facs="tcp:165355:3"/>
+            <p>The conſequents ariſing from the Fortifying of this place, the Rebels apprehended to be of no leſſe danger to them, then we decreed it of advantage to us; and therefore Sallyed out with all the ſtrength of Horſe and Foot they could poſſibly make to beat us thence: To facilitate the which, and the more to amuſe us, a Report was ſpread in my Army, (through their artifice) That <hi>Cromwell</hi> himſelfe, was Landed in the Night, and that the whole <hi>Engliſh</hi> Power of the tranſported Rebells would that day be upon our Shoulders: Which, though I looked upon as a Lie, (&amp; a leiſure to have ſearched, would quickly have diſcovered the Author:) yet I could not undeceive the Souldiery, who were wholly poſſeſſed with it: more eſpecially, thoſe I had ſent to <hi>Baggohrath,</hi> upon the eruption of the neceſſitated Rebel, did con<g ref="char:EOLhyphen"/>clude it for a Truth indiſputable.</p>
+            <p>This propoſition of their Mindes being extream prejudiciall upon the inſtant of Engagement, the better part of the Army Commanded to other places, or not come up. The Lord <hi>Inchi<g ref="char:EOLhyphen"/>quin</hi> himſelfe, being gone into <hi>Munſter</hi> with a conſiderable Bo<g ref="char:EOLhyphen"/>dy of the Horſe, and twelve thouſand I expected from <hi>Clan<g ref="char:EOLhyphen"/>rickard;</hi> and the Lord of <hi>Ards</hi> not yet come up, I reſolved to call thoſe Commanded Forces off from <hi>Baggohrath;</hi> and in or<g ref="char:EOLhyphen"/>der thereunto, gave Command to the Earl of <hi>Fingall,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Vaughan,</hi> and my Brother, to bring them off without enga<g ref="char:EOLhyphen"/>ging at all the Enemy.</p>
+            <p>But the Rebels advancing with an extraordinary expedition, (enforced by neceſſity, and now encouraged by our declining the engagement) fell with a confident ſpeed upon our Rear, where Sir <hi>William Vaughan,</hi> and Sir <hi>Edmund Varney,</hi> making a vigorous reſiſtance, had the honour to Sacrifice their Lives in your Majeſties Quarrell: My Lord of <hi>Fingall,</hi> and my Brother (over-venturouſly voluntiering it) after ſome Wounds, were en<g ref="char:EOLhyphen"/>forced to become their Priſoners; the reſt of the Commanded Party full of amazement and prepoſſeſſion, defended themſelves rather out of deſpaire of Life, then hope of Victory; which be<g ref="char:EOLhyphen"/>ing perceived by the Rebell, (highly animated with a proſperous beginning) all, or moſt of the Commanded Foot, being in num<g ref="char:EOLhyphen"/>ber about twelve hundred, were either ſlain, or taken. The Horſe, with inconſiderable loſſe, drew off to their advancing ſeconds.</p>
+            <p>This was performed with ſuch ſpeed, that the Seconds I had
+<pb n="3" facs="tcp:165355:3"/>ſent forth after neceſſity of Engagement, were not able to come up to their Relief; and the Violent Rebell was ſo fluſhed with this Victory, that (growing eager to purſue his Fortune) he would needs charge thoſe ſuccours: which by the ſignall Valour, and Bravery of the two Lords, <hi>Caſtle-haven</hi> and <hi>Taffe,</hi> turned ſo little to their advantage, that about 500. of their Horſe left their triumphant Riders upon the place, and the reſt making a ſwift Retreat with their Foot into the City, of my 200. Men before ta<g ref="char:EOLhyphen"/>ken Priſoners were recovered: which, with eight of their Horſe-Colours taken, may very well ſerve to bring the Victory to a new Diſpute, what ever they may hereupon write to the con<g ref="char:EOLhyphen"/>trary, to haule <hi>Cromwells</hi> unwilling Souldiery to the relief of their loud Neceſſities.</p>
+            <p>At the preſent, Sir, We will not any more commit any thing to Fortune, by attempting to Block them up, (otherwiſe then on this ſide) till a full conjuncture with the Forces which <hi>Clan<g ref="char:EOLhyphen"/>rickard, Inchiquin,</hi> and <hi>Ards,</hi> are Marching up with towards us: which we reſolve upon ſo much the rather, as reſting aſſuredly confident, that Providence hath deſigned this particular place for the ſeat of Warre in this Kingdome, in regard <hi>Cromwell,</hi> with the remaining diviſion of his Army, (the treacherouſly intended delivery of <hi>Corke</hi> being happily prevented) cannot be of any con<g ref="char:EOLhyphen"/>ſiderable power to Land in any other part to our diſadvan<g ref="char:EOLhyphen"/>tage.</p>
+            <p>In this Paper, Sir, I have given your Majeſty an entire, and exact account of every thing worth your Princely knowledge, which may have paſſed in the late Action of <hi>Auguſt</hi> the ſecond. Of which, though the Rebells, who reckon Deliveries for Con<g ref="char:EOLhyphen"/>queſt, may, peradventure, unſeaſonably triumph in the Gazets: They have no other true Ground then what is included in this Narration. The Bearer whereof, Sir <hi>Robert Welch,</hi> hath in Com<g ref="char:EOLhyphen"/>miſſion to ſatisfie all ſuch Scruples as may appear juſtly queſti<g ref="char:EOLhyphen"/>onable: who furthermore, is to aſſure your Majeſty, that the Army under my Command, hath recovered ſo much Spirit, and Ardour againſt the moſt Barbarous Rebell, That <hi>Cromwell</hi> at his arrivall, will find an Enemy fully poſſeſſed with a generous deſire of Revenge, Honour, and Liberty, of a more high, and noble Courage, then his mercenary Souldiery can ever be Principled into, whoſe Conſcience clogged with a guilty violation of all
+<pb n="4" facs="tcp:165355:4"/>Lawes, both Divine and Humane, muſt at one inſtant drive him into a Cowardly deſpaire, and infuſe a glorious confidence of Victory into all the honeſt Soules of your Majeſties Party in Generall. And particularly, Sir, into the Boſome of</p>
+            <closer>
+               <signed>Your Majeſties moſt obedient Subject, and obliged Servant, <hi>ORMOND.</hi>
+               </signed>
+               <dateline>
+                  <hi>Finglai,</hi> 
+                  <date>Auguſt the 4. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>The indorſment was to HIS MAJESTY.</trailer>
+         </div>
+         <div type="letter">
+            <head>Reſolved in a Councell of War held at <hi>Finglaſie,</hi> 
+               <date>AUGUST 1. 1649.</date>
+            </head>
+            <p>
+               <hi>REſolved, That a Party of twelve hundred Foot, and five hun<g ref="char:EOLhyphen"/>dred Horſe be drawn out of His Excellencies Army, to poſſeſſe themſelves of</hi> Baggohrath, <hi>and Fortifie it.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, That eight hundred of the prepared Pioneers be com<g ref="char:EOLhyphen"/>manded to attend the ſaid Party, that the place may be Fortified with all Expedition.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, That the Foot of this Party be commanded by Adjutant Generall</hi> Searle, <hi>and the Horſe by Col:</hi> Matthewes, <hi>who are to at<g ref="char:EOLhyphen"/>tend His Excellency for Orders.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, That the Earl of</hi> Caſtle-haven, <hi>and the Lord</hi> Taff, <hi>draw out two thouſand ſelected Horſe with Lieu. Colonell</hi> Gerards <hi>Fuiſeers of His Excellencies Life-guard, to ſecond the ſaid Party, in caſe the Rebells attempt to interrupt them.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, That (the Caſtle being made good) a running Trench be drawn from thence to the Water-ſide to diſturb all future Landing.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, That the running Trench being perfected, a Fort ſhall be raiſed at the end thereof, and ſix Peeces of Ordnance mounted thereupon, to Command the water paſſages.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, That a Coppy of theſe Reſults be recommended to his Highneſſe Prince</hi> Rupert, <hi>who is Humbly deſired by the Councell of Warre to furniſh out two of the nimbleſt ſort of his Frigots, which may ſerve for Aviſoes and give ſeaſonable Intelligence to his Excl<g ref="char:EOLhyphen"/>lency accordingly of the Rebells Courſe upon the Marine.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Jo: Percivall,</hi> Secretary to His Excel. and Councell of War.</signed>
+            </closer>
+            <postscript>
+               <p>This is an exact Copy.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:165355:4"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THe Gentleman who hath vouchſafed the delivery of this Letter to your Hands, Profeſſeth himſelfe a great Servant of your Lordſhips and highly addicted to the advance of the Royall Intereſt; and though his unfortunate weakneſſe hereto<g ref="char:EOLhyphen"/>fore had made him ſo clouded to the eyes of his underſtanding, as to render him Incapable of perceiving thoſe artifices by which the Grandees of the Preſent Faction have aſcended to their Noone of Greatneſſe, yet (that Philme being at Preſent taken off, he with great deteſtation abhors the very Memory of their actions, and to ſhew himſelfe willing to ſatisfie for former miſtakes) offers to undeergoe any Hazard to teſtifie the ſincerity of his Converſion.</p>
+            <p>By him therefore as by a Perſon leſſe abnoxious to ſuſpi<g ref="char:EOLhyphen"/>cion, I have choſen to ſend you my Lord of <hi>Ormonds</hi> Letter to his Majeſtie about the Late fight betwixt Colonel <hi>Jones</hi> and him, and take leave to aſſure your Lordſhip that it is a moſt Perfect Copie.</p>
+            <p>
+               <hi>Auguſt</hi> the 22 <hi>ſtylo novo.</hi> Sir Robert <hi>Welih</hi> came to Saint <hi>Germins</hi> from his Excellency, with an exact Narrative of that action: and ſince that Time ſeverall expreſſes are come to his Majeſtie and other Great ones of the Court, from the Earle of <hi>Caſtle-Haven,</hi> the Lord <hi>Taſſe,</hi> and the Lord <hi>Byron,</hi> all which render his Excellencies relation ſo full of exactneſſe truth, and Ingenuity, That his Majeſtie is ſo abſolutely confirmed in the re<g ref="char:EOLhyphen"/>lation, That all the Tempeſts of your Pamphlets, and Thunder of Thankſgiving cannot ſhake us from an acquieſcence in that Narrative.</p>
+            <p>The <hi>French</hi> Kings magnificent reception into <hi>Paris,</hi> hath I doubt not more filled your gazets, then the returne of <hi>Provence</hi> to his moſt Chriſtian Majeſties obedience, or the Poſſibility of an utter Ruine to the Rebells of <hi>Burdeaux</hi> by the Gallant <hi>D'Eſpernon,</hi> Or the hopefull ſpring of a Peace at <hi>Cambray</hi> (eaſily to be collected from the Duke <hi>de Longevills</hi> this Letters) That which more Particulary acceeds to the <hi>Engliſh</hi> Intereſt is the Viſit of the Lord <hi>de Hante-Rive</hi> from his Eminency <hi>Da Ma<g ref="char:EOLhyphen"/>zarini.</hi> The ſubſtance of whoſe Meſſage (though all be here Buried
+<pb n="6" facs="tcp:165355:5"/>in a deep gulf of ſilence, yet by obſerving a more then uſuall Gaye<g ref="char:EOLhyphen"/>tie in the aſpects of the Greateſt Privadoes) gives (us of the next Orbe) juſt occaſion to hope that a Tempeſt is preparing here which may in no long ſeries of time humble all your Grandees at <hi>Weſtminſter,</hi> and make your counſell of State apprehend <hi>White-Hall</hi> ſubject to Earthquakes.</p>
+            <p>One thing I am obliged to tell you, though ſomething our of order of time, which is, when the Prince <hi>de Conde</hi> came to Preſent his <hi>Baiſe-mains</hi> to his Majeſtie, my curioſity (drawing neerer, unperceived, then their Privacies might have allowed me) gave me the opportunitie of hearing theſe words at their departure fall from the Prince of <hi>Conde</hi> to his Majeſtie: <hi>Sire Conſolez vous, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>royez pour choſe aſſeuree, que quant a vos enemis nous leur Mar<g ref="char:EOLhyphen"/>cherons ſur le Ventre tous deuz enſemble, ilſne nous eſchapperent pas Le Roy l'a dit, ſon Altiſſe Royale l'a Promis.</hi>
+            </p>
+            <p>Sir, Comfort your ſelfe, and believe it for a thing aſſured, that for what concernes your Enemies, we two together wil March over their Bellies: they ſhall not eſcape us, the King has ſaid it, His Royall Highneſſe has promiſed it.</p>
+            <p>Whether <hi>Montroſſe</hi> is deſigned to ſtrengthen <hi>Ormond</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or to fall upon the North of <hi>Scotland,</hi> is not knowne: Counſels are more obſcure here then at <hi>Weſtminſter.</hi> But by an expreſſe dated the firſt of <hi>Auguſt,</hi> from <hi>Lubeck</hi> we are Certified, That eighteen hundred of his Horſe are ſhipped at <hi>Lubeck,</hi> the Foot are to be Received from <hi>Denmarke,</hi> in number Ten thou<g ref="char:EOLhyphen"/>ſand, I ſhall give your Lordſhip a more particular accompt with the next Conveniency.</p>
+            <p>His Majeſtie hath expreſſed himſelfe very favourable in the Reception of Mr. <hi>G.</hi> and Mr. <hi>Ar.</hi> upon your Recom<g ref="char:EOLhyphen"/>mendation, and omits no opportunity to teſtifie what high eſteeme you retaine in his Opinion. Your Lordſhip will be Pleaſed to Pardon my abrupt ending, I am at the inſtant called away, and have onely the Leiſure to Tell your Lordſhip that I am in all numbers of gratitude,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>The Faithfulleſt, and moſt Humble of your Servants</signed>
+               <dateline>St. <hi>Germain</hi> en Laye, <date>Aug. 28. 18. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
